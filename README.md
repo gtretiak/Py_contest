@@ -1,5 +1,5 @@
 # Py_contest
-This repository contains Pyhton-based programs solving various real-world problems.
+This repository contains Python-based programs solving various real-world problems.
     
 How to run the programs:
    ```
@@ -7,7 +7,7 @@ How to run the programs:
    python3 council.py OR python3 council.py < input.txt
    ```
 Below is a detailed breakdown of each program 👇
-## 1. council.py
+## 1. Council.py
 This program filters reliable workers and aggregates their task responses.
 
     Reliable Annotation Aggregator
