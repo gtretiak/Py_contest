@@ -7,7 +7,7 @@ How to run the programs:
    python3 council.py OR python3 council.py < input.txt
    ```
 Below is a detailed breakdown of each program 👇
-## 1. Council.py
+## Council.py
 This program filters reliable workers and aggregates their task responses.
 
     Reliable Annotation Aggregator
@@ -19,7 +19,8 @@ This program filters reliable workers and aggregates their task responses.
     Radiologists or technicians annotate X-rays or MRIs.
     The system filters based on past accuracy and combines answers for AI training.
     3. Survey Quality Control
-    In large-scale surveys (e.g., political polling), filter out low-effort or inconsistent respondents and aggregate reliable responses per question.
+    Might be used in large-scale surveys (e.g., political polling).
+    Filters out low-effort or inconsistent respondents and aggregate reliable responses per question.
     4. Product Review Tagging
     Workers label reviews with sentiments or features.
     This script ensures only reliable workers influence the final tags.
